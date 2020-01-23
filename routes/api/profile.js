@@ -254,7 +254,7 @@ router.delete('/experience/:exp_id', auth, async (req, res) => {
 //  @desc        ADD profile eduction
 //  @access      Private
 
-router.put('/eduction', [
+router.put('/education', [
   auth,
   [
     check('school', 'School is required')

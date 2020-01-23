@@ -42,7 +42,7 @@ const EditProfile = ({
       facebook: loading || !profile.social ? '' : profile.social.facebook,
       linkedin: loading || !profile.social ? '' : profile.social.linkedin,
       youtube: loading || !profile.social ? '' : profile.social.youtube,
-      youtube: loading || !profile.social ? '' : profile.social.instagram
+      instagram: loading || !profile.social ? '' : profile.social.instagram
     });
   }, [loading]);
 
