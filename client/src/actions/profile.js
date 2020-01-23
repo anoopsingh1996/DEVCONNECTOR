@@ -113,3 +113,5 @@ export const addEducation = (formData, history) => async dispatch => {
     });
   }
 };
+
+// Delete experience
