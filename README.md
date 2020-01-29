@@ -3,7 +3,7 @@
 
 Social network for developers (MERN stack = MongoDB + Express + React + Node.js). Redux is used for a state management.
 
-Live demo is [here](https://agile-depths-75605.herokuapp.com/).
+Live demo is [here](https://shrouded-headland-79746.herokuapp.com/).
 
 ## Functionality
 
