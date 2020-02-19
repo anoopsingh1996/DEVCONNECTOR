@@ -22,7 +22,7 @@ Live demo is [here](https://shrouded-headland-79746.herokuapp.com/).
             -   Possibility to like and dislike post
             -   Possibility to comment/discuss post
 
-## Development
+## Deployment
 
 1. change default.json file in config folder
 2. `npm install` - to install server dependencies
